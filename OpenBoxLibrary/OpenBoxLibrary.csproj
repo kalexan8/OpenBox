@@ -49,7 +49,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="NeweggItem.cs" />
+    <Compile Include="Models\Item.cs" />
+    <Compile Include="Models\NeweggItem.cs" />
     <Compile Include="UrlReader.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
